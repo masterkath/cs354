@@ -6,6 +6,7 @@
 #define	NPROC		8
 #endif		
 
+
 /* Process state constants */
 
 #define	PR_FREE		0	/* Process table entry is unused	*/
